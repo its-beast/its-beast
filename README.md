@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @its-beast
 - 👀 I’m interested in designing and coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on canva
 - 📫 How to reach me bhomeshmamodia13201613@gmail.com
 
